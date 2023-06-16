@@ -32,7 +32,13 @@ This repository is for data structure and algorithms solutions in c++ programmin
 23. Remove Duplicates
 24. Second Last Max
 25. Single Number
-26. 
+26. Sum Of all element 
+27. Swap Array
+28. Teemo Attacking
+29. Third Max
+30. Two Sum
+31. Visible Height
+
 
 ## Recursion
 1. Factorial
