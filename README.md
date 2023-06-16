@@ -11,7 +11,28 @@ This repository is for data structure and algorithms solutions in c++ programmin
 2. Can place flower
 3. Contain Duplicate
 4. Devide in two Subarray
-5. 
+5. Distribute Candies
+6. Find Element
+7. Find Unique Number
+8. Height Checker
+9. Intersection of Two
+10. Majority Element
+11. Max letter word
+12. Max Profit
+13. Max value
+14. Min cost
+15. Missing Number 
+16. Move Zeros
+17. Next Greater Element 
+18. Number of Pair
+19. Palindrome Word
+20. Plus One 
+21. Prefix Sum
+22. Remove Element 
+23. Remove Duplicates
+24. Second Last Max
+25. Single Number
+26. 
 
 ## Recursion
 1. Factorial
