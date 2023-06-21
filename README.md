@@ -2,9 +2,8 @@
 This repository is for data structure and algorithms solutions in c++ programming langauge.
 
 ## Stack
-1. Create Stack class with push and pop operations
-2. Reverse of stack
-3. Insert element at given position.
+1. Create Stack class with push and pop operations - [link](Stack/new.cpp)
+2. Insert element at given position - [link](Stack/InsertAtAnyIndex.cpp)
 
 ## Arrays
 1. 0's and 1's
