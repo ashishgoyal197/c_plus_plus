@@ -84,8 +84,8 @@ This repository is for data structure and algorithms solutions in c++ programmin
 2. Sum Of common element in two Vector - [link](Set/SumOfCommonEle.cpp)
 
 ## Searching
-1. Binary Search - [link](Searching/BinarySearch.cpp)
-2. Linear Search - [link](Searching/LinearSearch.cpp)
+1. Binary Search - [link](searching/BinarySearch.cpp)
+2. Linear Search - [link](searching/LinearSearch.cpp)
 
 
 
