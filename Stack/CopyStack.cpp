@@ -28,6 +28,7 @@ int main(){
 
     stack<int> result = CopyStack(st);
 
+    // for output
     while(not result.empty()){
         int curr = result.top();
         result.pop();
