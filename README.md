@@ -6,6 +6,13 @@ This repository is for data structure and algorithms solutions in c++ programmin
 2. Insert element at given position - [link](Stack/InsertAtAnyIndex.cpp)
 3. Reverse a Stack - [link](Stack/ReverseStack.cpp)
 
+## Queue
+1. Insertion and Deletion - [link](Queue/InsertionAndDeletion.cpp)
+2. Queue using Stack (pop efficient) - [link](Queue/QueueUsingStack_popEfficient.cpp)
+3. Queue using Stack (push efficient) - [link](Queue/QueueUsingStack.cpp)
+4. Reverse Queue - [link](Queue/ReverseQueue.cpp)
+5. Sliding Window Max - [link](Queue/SlidingWindowMax.cpp)
+
 ## Arrays
 1. 0's and 1's -[link](Array/0and1.cpp)
 2. Can place flower -[link](Array/CanPlaceFlower.cpp)
