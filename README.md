@@ -59,6 +59,8 @@ This repository is for data structure and algorithms solutions in c++ programmin
 9. K multiple of a Num - [link](Recursion/k_MultipleOfNum.cpp)
 10. Increasing Sequence - [link](Recursion/IncreasingSequence.cpp)
 11. HCF of two number - [link](Recursion/HCF_OfTwoNumber.cpp)
+12. Armstrong number - [link](Recursion/isArmstrongNumber.cpp)
+13. Frog Jump - [link](Recursion/FrogJump.cpp)
     
 
 ## Linked List
@@ -85,6 +87,7 @@ This repository is for data structure and algorithms solutions in c++ programmin
 1. Boubble sort - [link](Sorting/BubbleSort.cpp)
 2. Insertion sort - [link](Sorting/InsertionSort.cpp)
 3. Selection sort - [link](Sorting/SelectionSort.cpp)
+4. Merge sort - [link](Sorting/MergeSort.cpp)
 
 ## Set
 1. Insertion and Deletion - [link](Set/Basic.cpp) 
