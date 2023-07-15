@@ -88,6 +88,10 @@ This repository is for data structure and algorithms solutions in c++ programmin
 2. Insertion sort - [link](Sorting/InsertionSort.cpp)
 3. Selection sort - [link](Sorting/SelectionSort.cpp)
 4. Merge sort - [link](Sorting/MergeSort.cpp)
+5. Bucket sort -[link](Sorting/BubbleSort.cpp)
+6. Count sort -[link](Sorting/CountSort.cpp)
+7. Quick sort -[link](Sorting/QuickSort.cpp)
+8. Redix sort -[link](Sorting/RedixSort.cpp)
 
 ## Set
 1. Insertion and Deletion - [link](Set/Basic.cpp) 
