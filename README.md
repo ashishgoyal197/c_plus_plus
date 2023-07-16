@@ -96,10 +96,16 @@ This repository is for data structure and algorithms solutions in c++ programmin
 ## Set
 1. Insertion and Deletion - [link](Set/Basic.cpp) 
 2. Sum Of common element in two Vector - [link](Set/SumOfCommonEle.cpp)
+3. Check present all charactor in given string - [link](Set/PresentAllCharactor.cpp)
 
 ## Searching
 1. Binary Search - [link](searching/BinarySearch.cpp)
 2. Linear Search - [link](searching/LinearSearch.cpp)
+
+## Leetcode
+
+1. Relative Sort Array - [link](https://leetcode.com/problems/relative-sort-array/)
+
 
 
 
