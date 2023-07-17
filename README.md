@@ -75,6 +75,14 @@ This repository is for data structure and algorithms solutions in c++ programmin
 
 ## Pattern 
 
+1. Pattern1 - [link](Pattern/Pattern1.cpp)
+2. Pattern2 - [link](Pattern/Pattern2.cpp)
+3. Pattern3 - [link](Pattern/Pattern3.cpp)
+4. Pattern4 - [link](Pattern/Pattern4.cpp)
+5. Pattern5 - [link](Pattern/Pattern5.cpp)
+6. Pattern6 - [link](Pattern/Pattern6.cpp)
+7. Pattern7 - [link](Pattern/Pattern7.cpp)
+
 ## String
 1. Anagram Words - [link](String/AnagramWords.cpp)
 2. Isomorphic Words - [link](String/IsomorphicWord.cpp)
