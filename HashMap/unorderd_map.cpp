@@ -14,6 +14,7 @@ int main (){
   umap["log10"] = 2.302;
   umap["loge"] = 1.0;
   umap.insert({"November",29});
+  umap.insert(make_pair("hello",10));
 
  
 
@@ -28,7 +29,7 @@ int main (){
     cout<<"Found"<<endl;
   }
   // For print all element.
-  // Need to defind a iterator.
+  // Need to defind a iterator. or we can use for each loop.
    // itr->first stores the key part and
    // itr->second stores the value part
 
@@ -38,6 +39,10 @@ int main (){
 
     cout<<itr -> first<<" "<<itr->second<<endl;
   }
+
+  // for(auto pair:umap){
+  //    cout<<pair.first<<" - "<<pair.second<<endl;
+  // }
 
   // size and erase 
 

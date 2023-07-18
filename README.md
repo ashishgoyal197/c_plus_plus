@@ -74,7 +74,6 @@ This repository is for data structure and algorithms solutions in c++ programmin
 ## Binary Tree
 
 ## Pattern 
-
 1. Pattern1 - [link](Pattern/Pattern1.cpp)
 2. Pattern2 - [link](Pattern/Pattern2.cpp)
 3. Pattern3 - [link](Pattern/Pattern3.cpp)
@@ -89,6 +88,14 @@ This repository is for data structure and algorithms solutions in c++ programmin
 3. Sort String - [link](String/SortString.cpp)
 4. Max Lenght - [link](String/MaxLenghtOfOne.cpp)
 5. Valid Parenthesis - [link](String/ValidParanteses.cpp)
+   
+## Hashmap
+
+1. Hashing Basic - [link](Hashmap/HashingBasic.cpp)
+2. Map - [link](Hashmap/InsertionAndDeletion.cpp)
+3. Multi Map - [link](Hashmap/Multimap.cpp)
+4. Unordered Map - [link](Hashmap/unorderd_map.cpp)
+5. Sum of repetitive element - [link](Hashmap/SumOfRepititiveElement.cpp)
    
 
 ## Sorting
@@ -169,6 +176,7 @@ leetcode profile - [link](https://leetcode.com/goyalashish197/)
 53. Sliding Window Maximum - [link](https://leetcode.com/submissions/detail/981471914/)
 54. Majority Element - [link](https://leetcode.com/submissions/detail/991573478/)
 55. Relative Sort Array - [link](https://leetcode.com/submissions/detail/995714716/)
+56. Majority Element II - [link](https://leetcode.com/submissions/detail/997325345/)
 
 
 
