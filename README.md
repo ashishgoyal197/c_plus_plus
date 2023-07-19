@@ -96,6 +96,11 @@ This repository is for data structure and algorithms solutions in c++ programmin
 3. Multi Map - [link](Hashmap/Multimap.cpp)
 4. Unordered Map - [link](Hashmap/unorderd_map.cpp)
 5. Sum of repetitive element - [link](Hashmap/SumOfRepititiveElement.cpp)
+6. All element in array can be same string - [link](Hashmap/AllElementSameString.cpp)
+7. Check Isomorphic - [link](Hashmap/checkIsomorphic.cpp)
+8. Max length of sub array with zero sum - [link](Hashmap/MaxLenghtOfSubArrayWithZeroSum.cpp)
+9. String anagram each other - [link](Hashmap/StringAnagramEachOther.cpp)
+10. Target sum - [link](Hashmap/TargetSum.cpp)
    
 
 ## Sorting
