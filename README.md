@@ -91,16 +91,16 @@ This repository is for data structure and algorithms solutions in c++ programmin
    
 ## Hashmap
 
-1. Hashing Basic - [link](Hashmap/HashingBasic.cpp)
-2. Map - [link](Hashmap/InsertionAndDeletion.cpp)
-3. Multi Map - [link](Hashmap/Multimap.cpp)
-4. Unordered Map - [link](Hashmap/unorderd_map.cpp)
-5. Sum of repetitive element - [link](Hashmap/SumOfRepititiveElement.cpp)
-6. All element in array can be same string - [link](Hashmap/AllElementSameString.cpp)
-7. Check Isomorphic - [link](Hashmap/checkIsomorphic.cpp)
-8. Max length of sub array with zero sum - [link](Hashmap/MaxLenghtOfSubArrayWithZeroSum.cpp)
-9. String anagram each other - [link](Hashmap/StringAnagramEachOther.cpp)
-10. Target sum - [link](Hashmap/TargetSum.cpp)
+1. Hashing Basic - [link](HashMap/HashingBasic.cpp)
+2. Map - [link](HashMap/InsertionAndDeletion.cpp)
+3. Multi Map - [link](HashMap/Multimap.cpp)
+4. Unordered Map - [link](HashMap/unorderd_map.cpp)
+5. Sum of repetitive element - [link](HashMap/SumOfRepititiveElement.cpp)
+6. All element in array can be same string - [link](HashMap/AllElementSameString.cpp)
+7. Check Isomorphic - [link](HashMap/checkIsomorphic.cpp)
+8. Max length of sub array with zero sum - [link](HashMap/MaxLenghtOfSubArrayWithZeroSum.cpp)
+9. String anagram each other - [link](HashMap/StringAnagramEachOther.cpp)
+10. Target sum - [link](HashMap/TargetSum.cpp)
    
 
 ## Sorting
