@@ -182,6 +182,8 @@ leetcode profile - [link](https://leetcode.com/goyalashish197/)
 54. Majority Element - [link](https://leetcode.com/submissions/detail/991573478/)
 55. Relative Sort Array - [link](https://leetcode.com/submissions/detail/995714716/)
 56. Majority Element II - [link](https://leetcode.com/submissions/detail/997325345/)
+57. Rotate Array - [link](https://leetcode.com/submissions/detail/999843802/)
+58. Contiguous Array - [link](https://leetcode.com/submissions/detail/1000848946/)
 
 
 

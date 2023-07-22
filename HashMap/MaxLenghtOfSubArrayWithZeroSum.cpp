@@ -7,6 +7,7 @@ using namespace std;
 
 int maxLenghtOfSubArray(vector<int> v){
 
+// first find prefix sum.
    for(int i=1;i<v.size();i++){
        v[i] = v[i-1]+v[i];
    }
