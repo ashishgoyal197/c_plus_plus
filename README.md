@@ -184,6 +184,8 @@ leetcode profile - [link](https://leetcode.com/goyalashish197/)
 56. Majority Element II - [link](https://leetcode.com/submissions/detail/997325345/)
 57. Rotate Array - [link](https://leetcode.com/submissions/detail/999843802/)
 58. Contiguous Array - [link](https://leetcode.com/submissions/detail/1000848946/)
+59. Subarray Sum Equals K - [link](https://leetcode.com/submissions/detail/1001622242/)
+60. Longest Harmonious Subsequence - [link](https://leetcode.com/submissions/detail/1002026726/)
 
 
 
