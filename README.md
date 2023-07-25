@@ -186,6 +186,8 @@ leetcode profile - [link](https://leetcode.com/goyalashish197/)
 58. Contiguous Array - [link](https://leetcode.com/submissions/detail/1000848946/)
 59. Subarray Sum Equals K - [link](https://leetcode.com/submissions/detail/1001622242/)
 60. Longest Harmonious Subsequence - [link](https://leetcode.com/submissions/detail/1002026726/)
+61. Top K Frequent Elements - [link](https://leetcode.com/submissions/detail/1002354357/)
+62. Rabbits in Forest - [link](https://leetcode.com/submissions/detail/1003307627/)
 
 
 
