@@ -87,8 +87,12 @@ This repository is for data structure and algorithms solutions in c++ programmin
 2. Isomorphic Words - [link](String/IsomorphicWord.cpp)
 3. Sort String - [link](String/SortString.cpp)
 4. Max Lenght - [link](String/MaxLenghtOfOne.cpp)
-5. Valid Parenthesis - [link](String/ValidParanteses.cpp)
+5. Add Binary - [link](String/AddBinary.cpp)
    
+## String Stream
+1. Count word - [link](StringStream/CountWord.cpp)
+2. Frequency Of Words - [link](StringStream/FrequencyOfWords.cpp)
+
 ## Hashmap
 
 1. Hashing Basic - [link](HashMap/HashingBasic.cpp)
@@ -188,6 +192,30 @@ leetcode profile - [link](https://leetcode.com/goyalashish197/)
 60. Longest Harmonious Subsequence - [link](https://leetcode.com/submissions/detail/1002026726/)
 61. Top K Frequent Elements - [link](https://leetcode.com/submissions/detail/1002354357/)
 62. Rabbits in Forest - [link](https://leetcode.com/submissions/detail/1003307627/)
+63. Alternating Digit Sum -[link](https://leetcode.com/submissions/detail/1019135545/)
+64. Valid Anagram - [link](https://leetcode.com/submissions/detail/1021722158/)
+65. Add Binary - [link](https://leetcode.com/submissions/detail/1021820599/)
+66. Reverse Integer - [link](https://leetcode.com/submissions/detail/1022112886/) 
+67. Roman to Integer - [link](https://leetcode.com/submissions/detail/1022227278/)
+68. Length of Last Word - [link](https://leetcode.com/submissions/detail/1022351036/)
+69. Product of Array Except Self - [link](https://leetcode.com/submissions/detail/1023925504/)
+70. Find the Difference - [link](https://leetcode.com/submissions/detail/1023932730/)
+71. Student Attendance Record I - [link](https://leetcode.com/submissions/detail/1023989509/)
+72. Reverse Words in a String - [link](https://leetcode.com/submissions/detail/1024135761/)
+73. Reverse Only Letters - [link](https://leetcode.com/submissions/detail/1024590310/)
+74. Reverse Prefix of Word - [link](https://leetcode.com/submissions/detail/1024595172/)
+75. Reverse Vowels of a String - [link](https://leetcode.com/submissions/detail/1024602171/)
+76. Remove All Adjacent Duplicates In String - [link](https://leetcode.com/submissions/detail/1024670249/)
+77. Remove Outermost Parentheses - [link](https://leetcode.com/submissions/detail/1026396752/)
+78. Ransom Note - [link](https://leetcode.com/submissions/detail/1032874588/)
+79. Shortest Distance to a Character - [link](https://leetcode.com/submissions/detail/1037113440/)
+80. Sort Array By Parity II - [link](https://leetcode.com/submissions/detail/1037122720/)
+81. Squares of a Sorted Array - [link](https://leetcode.com/submissions/detail/1037136603/)
+82. Count Pairs Whose Sum is Less than Target - [link](https://leetcode.com/submissions/detail/1037295743/)
+83. Two Sum II - Input Array Is Sorted - [link](https://leetcode.com/submissions/detail/1038186013/)
+84. Find First and Last Position of Element in Sorted Array - [link](https://leetcode.com/submissions/detail/1038212052/)
+85. Find Target Indices After Sorting Array - [link](https://leetcode.com/submissions/detail/1038217766/)
+86. Sign of the Product of an Array - [link](https://leetcode.com/submissions/detail/1044167005/)  
 
 
 
