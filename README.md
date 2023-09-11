@@ -117,6 +117,11 @@ This repository is for data structure and algorithms solutions in c++ programmin
 7. Quick sort -[link](Sorting/QuickSort.cpp)
 8. Redix sort -[link](Sorting/RedixSort.cpp)
 
+## Sliding Window
+
+1. Max Sum of K length window - [link](SlidingWindow/MaxSumOf_k_lengthWindow.cpp)
+2. Max Sum of k length window (Normal Mehtod) - [link](SlidingWindow/MaxSumOf_k_element.cpp)
+
 ## Set
 1. Insertion and Deletion - [link](Set/Basic.cpp) 
 2. Sum Of common element in two Vector - [link](Set/SumOfCommonEle.cpp)
@@ -215,7 +220,10 @@ leetcode profile - [link](https://leetcode.com/goyalashish197/)
 83. Two Sum II - Input Array Is Sorted - [link](https://leetcode.com/submissions/detail/1038186013/)
 84. Find First and Last Position of Element in Sorted Array - [link](https://leetcode.com/submissions/detail/1038212052/)
 85. Find Target Indices After Sorting Array - [link](https://leetcode.com/submissions/detail/1038217766/)
-86. Sign of the Product of an Array - [link](https://leetcode.com/submissions/detail/1044167005/)  
+86. Sign of the Product of an Array - [link](https://leetcode.com/submissions/detail/1044167005/) 
+87. Contains Duplicate II - [link](https://leetcode.com/submissions/detail/1046294997/)
+88. Maximum Average Subarray I - [link](https://leetcode.com/submissions/detail/1046313387/)
+89. Subarray Product Less Than K - [link](https://leetcode.com/submissions/detail/1046730292/) 
 
 
 
