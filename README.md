@@ -5,6 +5,8 @@ This repository is for data structure and algorithms solutions in c++ programmin
 1. Create Stack class with push and pop operations - [link](Stack/new.cpp)
 2. Insert element at given position - [link](Stack/InsertAtAnyIndex.cpp)
 3. Reverse a Stack - [link](Stack/ReverseStack.cpp)
+4. Remove All Adjacent Duplicates In String (leetcode) - [link](https://leetcode.com/submissions/detail/1024670249/)
+5.  Remove Outermost Parentheses (leetcode) - [link](https://leetcode.com/submissions/detail/1026396752/)
 
 ## Queue
 1. Insertion and Deletion - [link](Queue/InsertionAndDeletion.cpp)
@@ -121,6 +123,24 @@ This repository is for data structure and algorithms solutions in c++ programmin
 
 1. Max Sum of K length window - [link](SlidingWindow/MaxSumOf_k_lengthWindow.cpp)
 2. Max Sum of k length window (Normal Mehtod) - [link](SlidingWindow/MaxSumOf_k_element.cpp)
+3. Subarray Product Less Than K (leetcode) - [link](https://leetcode.com/submissions/detail/1046730292/)
+4. Contains Duplicate II (leetcode) - [link](https://leetcode.com/submissions/detail/1046294997/)
+5. Maximum Average Subarray I (leetcode) - [link](https://leetcode.com/submissions/detail/1046313387/) 
+6. Longest Subarray of 1's After Deleting One Element (leetcode) - [link](https://leetcode.com/submissions/detail/1048207626/)
+
+## Two Pointer
+
+1. Reverse Words in a String (leetcode) - [link](https://leetcode.com/submissions/detail/1024135761/)
+2.  Reverse Only Letters (leetcode) - [link](https://leetcode.com/submissions/detail/1024590310/)
+3.  Reverse Prefix of Word (leetcode) - [link](https://leetcode.com/submissions/detail/1024595172/)
+4.  Reverse Vowels of a String (leetcode) - [link](https://leetcode.com/submissions/detail/1024602171/)
+5. Shortest Distance to a Character (leetcode) - [link](https://leetcode.com/submissions/detail/1037113440/)
+6. Sort Array By Parity II (leetcode) - [link](https://leetcode.com/submissions/detail/1037122720/)
+7.  Squares of a Sorted Array (leetcode) - [link](https://leetcode.com/submissions/detail/1037136603/)
+8.  Count Pairs Whose Sum is Less than Target (leetcode) - [link](https://leetcode.com/submissions/detail/1037295743/)
+9.  Two Sum II - Input Array Is Sorted (leetcode) - [link](https://leetcode.com/submissions/detail/1038186013/)
+10. Find First and Last Position of Element in Sorted Array (leetcode) - [link](https://leetcode.com/submissions/detail/1038212052/)
+11. Find Target Indices After Sorting Array (leetcode) - [link](https://leetcode.com/submissions/detail/1038217766/)
 
 ## Set
 1. Insertion and Deletion - [link](Set/Basic.cpp) 
