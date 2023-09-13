@@ -127,6 +127,8 @@ This repository is for data structure and algorithms solutions in c++ programmin
 4. Contains Duplicate II (leetcode) - [link](https://leetcode.com/submissions/detail/1046294997/)
 5. Maximum Average Subarray I (leetcode) - [link](https://leetcode.com/submissions/detail/1046313387/) 
 6. Longest Subarray of 1's After Deleting One Element (leetcode) - [link](https://leetcode.com/submissions/detail/1048207626/)
+7. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold (leetcode) - [link](https://leetcode.com/submissions/detail/1048449084/)
+8. K Radius Subarray Averages (leetcode) - [link](https://leetcode.com/submissions/detail/1048565683/)  
 
 ## Two Pointer
 
@@ -226,24 +228,9 @@ leetcode profile - [link](https://leetcode.com/goyalashish197/)
 69. Product of Array Except Self - [link](https://leetcode.com/submissions/detail/1023925504/)
 70. Find the Difference - [link](https://leetcode.com/submissions/detail/1023932730/)
 71. Student Attendance Record I - [link](https://leetcode.com/submissions/detail/1023989509/)
-72. Reverse Words in a String - [link](https://leetcode.com/submissions/detail/1024135761/)
-73. Reverse Only Letters - [link](https://leetcode.com/submissions/detail/1024590310/)
-74. Reverse Prefix of Word - [link](https://leetcode.com/submissions/detail/1024595172/)
-75. Reverse Vowels of a String - [link](https://leetcode.com/submissions/detail/1024602171/)
-76. Remove All Adjacent Duplicates In String - [link](https://leetcode.com/submissions/detail/1024670249/)
-77. Remove Outermost Parentheses - [link](https://leetcode.com/submissions/detail/1026396752/)
-78. Ransom Note - [link](https://leetcode.com/submissions/detail/1032874588/)
-79. Shortest Distance to a Character - [link](https://leetcode.com/submissions/detail/1037113440/)
-80. Sort Array By Parity II - [link](https://leetcode.com/submissions/detail/1037122720/)
-81. Squares of a Sorted Array - [link](https://leetcode.com/submissions/detail/1037136603/)
-82. Count Pairs Whose Sum is Less than Target - [link](https://leetcode.com/submissions/detail/1037295743/)
-83. Two Sum II - Input Array Is Sorted - [link](https://leetcode.com/submissions/detail/1038186013/)
-84. Find First and Last Position of Element in Sorted Array - [link](https://leetcode.com/submissions/detail/1038212052/)
-85. Find Target Indices After Sorting Array - [link](https://leetcode.com/submissions/detail/1038217766/)
-86. Sign of the Product of an Array - [link](https://leetcode.com/submissions/detail/1044167005/) 
-87. Contains Duplicate II - [link](https://leetcode.com/submissions/detail/1046294997/)
-88. Maximum Average Subarray I - [link](https://leetcode.com/submissions/detail/1046313387/)
-89. Subarray Product Less Than K - [link](https://leetcode.com/submissions/detail/1046730292/) 
+72. Ransom Note - [link](https://leetcode.com/submissions/detail/1032874588/)
+73. Sign of the Product of an Array - [link](https://leetcode.com/submissions/detail/1044167005/)
+74. Now adding topic-wise ...Not here. 
 
 
 
