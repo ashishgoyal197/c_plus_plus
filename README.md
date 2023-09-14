@@ -128,7 +128,8 @@ This repository is for data structure and algorithms solutions in c++ programmin
 5. Maximum Average Subarray I (leetcode) - [link](https://leetcode.com/submissions/detail/1046313387/) 
 6. Longest Subarray of 1's After Deleting One Element (leetcode) - [link](https://leetcode.com/submissions/detail/1048207626/)
 7. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold (leetcode) - [link](https://leetcode.com/submissions/detail/1048449084/)
-8. K Radius Subarray Averages (leetcode) - [link](https://leetcode.com/submissions/detail/1048565683/)  
+8. K Radius Subarray Averages (leetcode) - [link](https://leetcode.com/submissions/detail/1048565683/) 
+9. Maximum Erasure Value (leetcode) - [link](https://leetcode.com/submissions/detail/1049386638/) 
 
 ## Two Pointer
 
