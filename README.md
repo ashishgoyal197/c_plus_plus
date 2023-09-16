@@ -48,6 +48,21 @@ This repository is for data structure and algorithms solutions in c++ programmin
 30. Two Sum -[link](Array/TwoSum.cpp)
 31. Visible Height -[link](Array/VisibleHieght.cpp)
 
+## Matrix
+
+1. Input and Output - [link](Array/2D_Array/Basic.cpp)
+2. Addition of two - [link](Array/2D_Array/AdditionOfTwo.cpp)
+3. Fill element in Spiral - [link](Array/2D_Array/FillElementInSpiral.cpp)
+4. Max One in row 1 - [link](Array/2D_Array/MaxOneRow1.cpp)
+5. Max One in row 2 - [link](Array/2D_Array/MaxOneRow2.cpp)
+6. Multiply two matrix - [link](Array/2D_Array/MultiplyTwoMatrix.cpp)
+7. Pascal Triangle - [link](Array/2D_Array/PascalTriangle.cpp)
+8. Range Addition - [link](Array/2D_Array/RangeAddition.cpp)
+9.  Ractangle Sum - [link](Array/2D_Array/RectangleSum.cpp)
+10. Ractangle Sum 2 - [link](Array/2D_Array/RectangleSum2.cpp)
+11. Rotate 90 Degree - [link](Array/2D_Array/Rotate90Degree.cpp)
+12. Spiral Matrix - [link](Array/2D_Array/SpiralMatrix.cpp)
+13. Transpose Matrix - [link](Array/2D_Array/TransposeMatrix.cpp)
 
 ## Recursion
 1. Factorial - [link](Recursion/Factorial.cpp)
@@ -132,6 +147,8 @@ This repository is for data structure and algorithms solutions in c++ programmin
 9. Maximum Erasure Value (leetcode) - [link](https://leetcode.com/submissions/detail/1049386638/)
 10. Longest Repeating Character Replacement (leetcode) - [link](https://leetcode.com/submissions/detail/1050280153/) 
 11. Longest Substring Without Repeating Characters (leetcode) - [link](https://leetcode.com/submissions/detail/1050292661/)
+12. Minimum Size Subarray Sum (leetcode) - [link](https://leetcode.com/submissions/detail/1050655906/)
+13. Maximum Points You Can Obtain from Cards - [link](https://leetcode.com/submissions/detail/1050685436/)
 
 ## Two Pointer
 
