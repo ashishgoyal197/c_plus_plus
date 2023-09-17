@@ -63,6 +63,8 @@ This repository is for data structure and algorithms solutions in c++ programmin
 11. Rotate 90 Degree - [link](Array/2D_Array/Rotate90Degree.cpp)
 12. Spiral Matrix - [link](Array/2D_Array/SpiralMatrix.cpp)
 13. Transpose Matrix - [link](Array/2D_Array/TransposeMatrix.cpp)
+14. Row With Maximum Ones (leetcode) - [link](https://leetcode.com/submissions/detail/1051834100/)
+15. Pascal's Triangle II (leetcode) - [link](https://leetcode.com/submissions/detail/1051924169/)
 
 ## Recursion
 1. Factorial - [link](Recursion/Factorial.cpp)
@@ -105,6 +107,7 @@ This repository is for data structure and algorithms solutions in c++ programmin
 3. Sort String - [link](String/SortString.cpp)
 4. Max Lenght - [link](String/MaxLenghtOfOne.cpp)
 5. Add Binary - [link](String/AddBinary.cpp)
+6. Find the Index of the First Occurrence in a String (leetcode) - [link](https://leetcode.com/submissions/detail/1051158271/)
    
 ## String Stream
 1. Count word - [link](StringStream/CountWord.cpp)
@@ -148,7 +151,7 @@ This repository is for data structure and algorithms solutions in c++ programmin
 10. Longest Repeating Character Replacement (leetcode) - [link](https://leetcode.com/submissions/detail/1050280153/) 
 11. Longest Substring Without Repeating Characters (leetcode) - [link](https://leetcode.com/submissions/detail/1050292661/)
 12. Minimum Size Subarray Sum (leetcode) - [link](https://leetcode.com/submissions/detail/1050655906/)
-13. Maximum Points You Can Obtain from Cards - [link](https://leetcode.com/submissions/detail/1050685436/)
+13. Maximum Points You Can Obtain from Cards (leetcode) - [link](https://leetcode.com/submissions/detail/1050685436/)
 
 ## Two Pointer
 
