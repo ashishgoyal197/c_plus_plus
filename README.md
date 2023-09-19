@@ -65,6 +65,8 @@ This repository is for data structure and algorithms solutions in c++ programmin
 13. Transpose Matrix - [link](Array/2D_Array/TransposeMatrix.cpp)
 14. Row With Maximum Ones (leetcode) - [link](https://leetcode.com/submissions/detail/1051834100/)
 15. Pascal's Triangle II (leetcode) - [link](https://leetcode.com/submissions/detail/1051924169/)
+16. Set Matrix Zeroes (leetcode) - [link](https://leetcode.com/submissions/detail/1053251375/)
+17. Diagonal Traverse (leetcode) - [link](https://leetcode.com/submissions/detail/1053834121/)
 
 ## Recursion
 1. Factorial - [link](Recursion/Factorial.cpp)
@@ -125,6 +127,7 @@ This repository is for data structure and algorithms solutions in c++ programmin
 8. Max length of sub array with zero sum - [link](HashMap/MaxLenghtOfSubArrayWithZeroSum.cpp)
 9. String anagram each other - [link](HashMap/StringAnagramEachOther.cpp)
 10. Target sum - [link](HashMap/TargetSum.cpp)
+11. Roman to Integer (leetcode) - [link](https://leetcode.com/submissions/detail/1022227278/)
    
 
 ## Sorting
@@ -246,14 +249,13 @@ leetcode profile - [link](https://leetcode.com/goyalashish197/)
 64. Valid Anagram - [link](https://leetcode.com/submissions/detail/1021722158/)
 65. Add Binary - [link](https://leetcode.com/submissions/detail/1021820599/)
 66. Reverse Integer - [link](https://leetcode.com/submissions/detail/1022112886/) 
-67. Roman to Integer - [link](https://leetcode.com/submissions/detail/1022227278/)
-68. Length of Last Word - [link](https://leetcode.com/submissions/detail/1022351036/)
-69. Product of Array Except Self - [link](https://leetcode.com/submissions/detail/1023925504/)
-70. Find the Difference - [link](https://leetcode.com/submissions/detail/1023932730/)
-71. Student Attendance Record I - [link](https://leetcode.com/submissions/detail/1023989509/)
-72. Ransom Note - [link](https://leetcode.com/submissions/detail/1032874588/)
-73. Sign of the Product of an Array - [link](https://leetcode.com/submissions/detail/1044167005/)
-74. Now adding topic-wise ...Not here. 
+67. Length of Last Word - [link](https://leetcode.com/submissions/detail/1022351036/)
+68. Product of Array Except Self - [link](https://leetcode.com/submissions/detail/1023925504/)
+69. Find the Difference - [link](https://leetcode.com/submissions/detail/1023932730/)
+70. Student Attendance Record I - [link](https://leetcode.com/submissions/detail/1023989509/)
+71. Ransom Note - [link](https://leetcode.com/submissions/detail/1032874588/)
+72. Sign of the Product of an Array - [link](https://leetcode.com/submissions/detail/1044167005/)
+73. Now adding topic-wise ...Not here. 
 
 
 
