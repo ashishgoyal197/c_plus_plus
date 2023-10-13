@@ -50,30 +50,36 @@ public:
 
 };
 
-void PrintInReverse(Node* head){
-    
-    if(head==NULL){
-        return;
-    }
+    Node* findMid(Node* head){
 
-    PrintInReverse(head->next);
-    cout<<head->val<<"->";
-}
+        Node* slow = head;
+        Node* fast = head;
+
+        while(fast != NULL && fast->next != NULL){
+
+            slow = slow->next;
+            fast = fast->next->next;
+
+        }
+        return slow;
+    }
 
 int main(){
-    
-    int n;
-    cin>>n;
-    linkedlist ll;
 
-    for(int i=0; i<n ; i++){
-        int ele;
-        cin>>ele;
-        ll.InsertAtTail(ele);
-    }
+   linkedlist ll;
+   int n;
+   cin>>n;
 
-    PrintInReverse(ll.head);
-    cout<<"NULL"<<endl;
+   for(int i = 0 ; i<n ; i++){
+      int ele;
+      cin>>ele;
 
-    return 0;
+      ll.InsertAtTail(ele);
+   }
+   
+   Node* mid = findMid(ll.head);
+   cout<<mid->val<<endl;
+
+
+   return 0;
 }

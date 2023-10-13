@@ -68,6 +68,15 @@ This repository is for data structure and algorithms solutions in c++ programmin
 16. Set Matrix Zeroes (leetcode) - [link](https://leetcode.com/submissions/detail/1053251375/)
 17. Diagonal Traverse (leetcode) - [link](https://leetcode.com/submissions/detail/1053834121/)
 
+## Binary Search
+
+1. Find first occurance of a element - [link](BinarySearch/FirstOccurance.cpp)
+2. Find first and last occurance of element - [link](BinarySearch/FirstAndLastOccurance.cpp)
+3. A sorted Array rotated N times ..find Minimum - [link](BinarySearch/MinimumInRotatedSortedArray.cpp)
+4. A sorted Array rotated N times ...search element - [link](BinarySearch/SearchInRotatedSortedArray.cpp)
+5. Sqrt - [link](BinarySearch/Sqrt.cpp)
+6. Binary Search By Recursion - [link](BinarySearch/ByRecusion.cpp)
+
 ## Recursion
 1. Factorial - [link](Recursion/Factorial.cpp)
 2. Fibonacci Series - [link](Recursion/Fibonacci.cpp)
@@ -82,12 +91,26 @@ This repository is for data structure and algorithms solutions in c++ programmin
 11. HCF of two number - [link](Recursion/HCF_OfTwoNumber.cpp)
 12. Armstrong number - [link](Recursion/isArmstrongNumber.cpp)
 13. Frog Jump - [link](Recursion/FrogJump.cpp)
+14. Check Palindrome - [link](Recursion/isPalindrome.cpp)
+15. Is Key present in Array - [link](Recursion/KeyPresentOrNot.cpp)
+16. Remove a Particular char from a string - [link](Recursion/RemoveAllKey.cpp)
+17. Find all possible Subsequence of String - [link](Recursion/SubsequenceOfString.cpp)
+18. Find sum of all possible subset of Array - [link](Recursion/SumOfSubset.cpp)
+19. Number of Ways of reach first ele to last ele in m by n matrix - [link](Recursion/WaysOfStartToEndInMatrix.cpp)
+
     
 
 ## Linked List
 1. Insertion and Deletion - [link](LinkedList/Basic.cpp)
 2. Delete alternate element - [link](LinkedList/DeleteAlternateElement.cpp)
 3. Delete Duplicate element in sorted Linked List - [link](LinkedList/DeleteDuplicateElementInSorted.cpp)
+4. Check Two LinkList are same - [link](LinkedList/checkTwoLL_same.cpp)
+5. Delete Kth element form end - [link](LinkedList/delete_kth_fromLast.cpp)
+6. Find Mid element - [link](LinkedList/findMid.cpp)
+7. Print a List form reverse - [link](LinkedList/PrintInReverse.cpp)
+8. Reverse a List - [link](LinkedList/ReverseLinkedlist.cpp)
+9. Reverse a List By Recursion - [link](LinkedList/ReverseByRecursion.cpp)
+10. Reverse list in set of k nodes - [link](LinkedList/ReverseK_Node.cpp)
 
 ## Doubly Linked List
 1. Insertion and Deletion - [link](DoublyLinkedList/Basic.cpp)

@@ -50,30 +50,39 @@ public:
 
 };
 
-void PrintInReverse(Node* head){
+   Node* reverseLinkedList(Node* head){
+
+    Node* prev = NULL;
+    Node* curr = head;
     
-    if(head==NULL){
-        return;
+    while(curr != NULL){
+        Node* next;
+        next = curr->next;
+        curr->next = prev;
+        prev = curr;
+        curr = next;
     }
 
-    PrintInReverse(head->next);
-    cout<<head->val<<"->";
-}
+    return prev;
+     
+   }
+
 
 int main(){
-    
-    int n;
-    cin>>n;
-    linkedlist ll;
 
-    for(int i=0; i<n ; i++){
-        int ele;
-        cin>>ele;
-        ll.InsertAtTail(ele);
-    }
+   linkedlist ll;
+   int n;
+   cin>>n;
 
-    PrintInReverse(ll.head);
-    cout<<"NULL"<<endl;
+   for(int i = 0 ; i<n ; i++){
+      int ele;
+      cin>>ele;
 
-    return 0;
+      ll.InsertAtTail(ele);
+   }
+   ll.head = reverseLinkedList(ll.head);
+   ll.display();
+
+
+   return 0;
 }

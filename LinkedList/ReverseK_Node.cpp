@@ -50,30 +50,44 @@ public:
 
 };
 
-void PrintInReverse(Node* head){
-    
-    if(head==NULL){
-        return;
-    }
+    Node* reverseKNodes(Node* head , int k){
 
-    PrintInReverse(head->next);
-    cout<<head->val<<"->";
-}
+        Node* prev = NULL;
+        Node* curr = head;
+        int count = 0;
+
+        while(curr != NULL && count<k){
+            Node* next = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = next;
+            count++;
+        }
+        
+        if(curr != NULL){
+            Node* new_head = reverseKNodes(curr,k);
+            head->next = new_head;
+        }
+        return prev;
+    }
 
 int main(){
-    
-    int n;
-    cin>>n;
-    linkedlist ll;
 
-    for(int i=0; i<n ; i++){
-        int ele;
-        cin>>ele;
-        ll.InsertAtTail(ele);
-    }
+   linkedlist ll;
+   int n;
+   cin>>n;
 
-    PrintInReverse(ll.head);
-    cout<<"NULL"<<endl;
+   for(int i = 0 ; i<n ; i++){
+      int ele;
+      cin>>ele;
 
-    return 0;
+      ll.InsertAtTail(ele);
+   }
+   int k;
+   cin>>k;
+   ll.head = reverseKNodes(ll.head,k);
+   ll.display();
+
+
+   return 0;
 }

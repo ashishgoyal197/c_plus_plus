@@ -1,1 +1,0 @@
-InsertAtHead(head,4);

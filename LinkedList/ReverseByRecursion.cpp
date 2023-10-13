@@ -50,30 +50,35 @@ public:
 
 };
 
-void PrintInReverse(Node* head){
-    
-    if(head==NULL){
-        return;
+    Node* reverseByRecursion(Node* head){
+        
+        if(head == NULL || head->next == NULL){
+            return head;
+        }
+
+        Node* new_head = reverseByRecursion(head->next);
+        head->next->next = head;
+        head->next = NULL;
+        
+        return new_head;
     }
 
-    PrintInReverse(head->next);
-    cout<<head->val<<"->";
-}
 
 int main(){
-    
-    int n;
-    cin>>n;
-    linkedlist ll;
 
-    for(int i=0; i<n ; i++){
-        int ele;
-        cin>>ele;
-        ll.InsertAtTail(ele);
-    }
+   linkedlist ll;
+   int n;
+   cin>>n;
 
-    PrintInReverse(ll.head);
-    cout<<"NULL"<<endl;
+   for(int i = 0 ; i<n ; i++){
+      int ele;
+      cin>>ele;
 
-    return 0;
+      ll.InsertAtTail(ele);
+   }
+   ll.head = reverseByRecursion(ll.head);
+   ll.display();
+
+
+   return 0;
 }
