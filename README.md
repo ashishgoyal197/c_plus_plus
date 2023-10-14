@@ -111,6 +111,16 @@ This repository is for data structure and algorithms solutions in c++ programmin
 8. Reverse a List - [link](LinkedList/ReverseLinkedlist.cpp)
 9. Reverse a List By Recursion - [link](LinkedList/ReverseByRecursion.cpp)
 10. Reverse list in set of k nodes - [link](LinkedList/ReverseK_Node.cpp)
+11. Reorder Linked list - [link](LinkedList/ReorderLL.cpp)
+12. Intersection of two linkedlist(leetcode) - [link]()
+13. Merge Two sorted list(leetcode) - [link]()
+14. Merge K sorted list(leetcode) - [link]()
+15. LinkedList Cycle(leetcode) - [link]()
+16. LinkedList Cycle II(leetcode) - [link]()
+17. Palindrome Linkedlist(leetcode) - [link]()
+18. Rotate List(leetcode) - [link]()
+19. Odd Even List(leetcode) - [link]()
+20. Swap Nodes in Pair(leetcode) - [link]()
 
 ## Doubly Linked List
 1. Insertion and Deletion - [link](DoublyLinkedList/Basic.cpp)

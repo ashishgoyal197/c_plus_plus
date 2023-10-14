@@ -131,31 +131,33 @@ public:
 
 int main(){
 
-    Node* new_node = new Node(3);
+    Node* new_node = new Node(4);
     DoublyLinkedList dll;
     dll.head = new_node;
     dll.tail = new_node;
     // cout<<dll.head->val<<endl;
-    dll.InsertAtStart(1);
-
+    
+    dll.InsertAtStart(3);
     dll.InsertAtStart(2);
+    dll.InsertAtStart(1);
     dll.display();
     // dll.deleteAtStart();
     // dll.display();
-    dll.InsertAtStart(3);
+    
     // dll.display();
     // dll.deleteAtEnd();
     // dll.display();
-    dll.InsertAtEnd(4);
     dll.InsertAtEnd(5);
-    dll.InsertAtPosition(6,3);
+    dll.InsertAtEnd(6);
     dll.display();
-    dll.deleteAtStart();
+    dll.InsertAtPosition(10,3);
     dll.display();
-    dll.deleteAtEnd();
-    dll.display();
-    dll.deleteAtPosition(3);
-    dll.display();
+    // dll.deleteAtStart();
+    // dll.display();
+    // dll.deleteAtEnd();
+    // dll.display();
+    // dll.deleteAtPosition(3);
+    // dll.display();
 
 
     return 0;
