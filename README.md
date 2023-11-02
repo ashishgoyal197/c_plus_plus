@@ -139,6 +139,18 @@ This repository is for data structure and algorithms solutions in c++ programmin
 
 ## Binary Tree
 
+1. DFS and BFS - [link](BinaryTree/Basic.cpp)
+2. Max Length from roof to leaf - [link](BinaryTree/Maxlength_rootToLeaf.cpp)
+3. Number of leaf Node - [link](BinaryTree/NumberOfLeafNode.cpp)
+4. Reverse Level Order Transverse - [link](BinaryTree/reverseLevelOrder.cpp)
+5. Right View - [link](BinaryTree/RightMostLeafNode.cpp)
+6. Top View - [link](BinaryTree/TopView.cpp)
+7. Binary Tree Level Order Traversal(leetcode) - [link](https://leetcode.com/submissions/detail/1079155961/)
+8. Binary Tree Right Side View(leetcode) - [link](https://leetcode.com/submissions/detail/1079681866/)
+9. Binary Tree Level Order Traversal II(leetcode) - [link](https://leetcode.com/submissions/detail/1086720410/)
+10. Sum of Left Leaves - [link](https://leetcode.com/submissions/detail/1087530379/)
+11. Path Sum III - [link](https://leetcode.com/submissions/detail/1087564476/)
+ 
 ## Pattern 
 1. Pattern1 - [link](Pattern/Pattern1.cpp)
 2. Pattern2 - [link](Pattern/Pattern2.cpp)
