@@ -150,6 +150,8 @@ This repository is for data structure and algorithms solutions in c++ programmin
 9. Binary Tree Level Order Traversal II(leetcode) - [link](https://leetcode.com/submissions/detail/1086720410/)
 10. Sum of Left Leaves - [link](https://leetcode.com/submissions/detail/1087530379/)
 11. Path Sum III - [link](https://leetcode.com/submissions/detail/1087564476/)
+12. Binary Tree Zigzag Level Order Traversal (leetcode) - [link](https://leetcode.com/submissions/detail/1090600608/)
+13. Same Tree (leetcode) - [link](https://leetcode.com/submissions/detail/1090629129/)
  
 ## Pattern 
 1. Pattern1 - [link](Pattern/Pattern1.cpp)
@@ -193,7 +195,10 @@ This repository is for data structure and algorithms solutions in c++ programmin
 17. Top K Frequent Elements (leetcode) - [link](https://leetcode.com/submissions/detail/1002354357/)
 18. Rabbits in Forest (leetcode) - [link](https://leetcode.com/submissions/detail/1003307627/)
 19. Bulls and Cows (leetcode) - [link](https://leetcode.com/submissions/detail/1089920360/)
-20. 
+20. Happy Number (leetcode) - [link](https://leetcode.com/submissions/detail/1090588984/)
+21. Longest Consecutive Sequence (leetcode) - [link](https://leetcode.com/submissions/detail/1091180716/)
+22. Keyboard Row (leetcode) - [link](https://leetcode.com/submissions/detail/1091823163/)
+23. Kth Distinct String in an Array (leetcode) - [link](https://leetcode.com/submissions/detail/1095005546/)
    
 
 ## Sorting
