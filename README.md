@@ -192,6 +192,8 @@ This repository is for data structure and algorithms solutions in c++ programmin
 16. Longest Harmonious Subsequence (leetcode) - [link](https://leetcode.com/submissions/detail/1002026726/)
 17. Top K Frequent Elements (leetcode) - [link](https://leetcode.com/submissions/detail/1002354357/)
 18. Rabbits in Forest (leetcode) - [link](https://leetcode.com/submissions/detail/1003307627/)
+19. Bulls and Cows (leetcode) - [link](https://leetcode.com/submissions/detail/1089920360/)
+20. 
    
 
 ## Sorting
