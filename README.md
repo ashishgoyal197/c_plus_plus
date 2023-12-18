@@ -148,11 +148,22 @@ This repository is for data structure and algorithms solutions in c++ programmin
 7. Binary Tree Level Order Traversal(leetcode) - [link](https://leetcode.com/submissions/detail/1079155961/)
 8. Binary Tree Right Side View(leetcode) - [link](https://leetcode.com/submissions/detail/1079681866/)
 9. Binary Tree Level Order Traversal II(leetcode) - [link](https://leetcode.com/submissions/detail/1086720410/)
-10. Sum of Left Leaves - [link](https://leetcode.com/submissions/detail/1087530379/)
-11. Path Sum III - [link](https://leetcode.com/submissions/detail/1087564476/)
+10. Sum of Left Leaves(leetcode) - [link](https://leetcode.com/submissions/detail/1087530379/)
+11. Path Sum III(leetcode) - [link](https://leetcode.com/submissions/detail/1087564476/)
 12. Binary Tree Zigzag Level Order Traversal (leetcode) - [link](https://leetcode.com/submissions/detail/1090600608/)
 13. Same Tree (leetcode) - [link](https://leetcode.com/submissions/detail/1090629129/)
+14. Path Sum - [link](BinaryTree/path_sum.cpp)
+15. Construct Tree from Inorder and Preorder - [link](BinaryTree/TreeFromInAndPre.cpp)
  
+## Binary Search Tree
+1. Insertion and Deletion - [link](BinarySearchTree/InsertionAndDeletion.cpp)
+2. Construct BST from sorted Array - [link](BinarySearchTree/ArrToBST.cpp)
+3. Remove Leaf Node - [link](BinarySearchTree/RemoveLeafNode.cpp)
+4. Identical BST from two Array - [link](BinarySearchTree/IdenticalBSTfromTwoArr.cpp)
+5. Find Inorder Precesser and Secceser Node - [link](BinarySearchTree/InorderPreSuccesNode.cpp)
+6. Check valid BST - [link](BinarySearchTree/ValidBST.cpp)
+
+
 ## Pattern 
 1. Pattern1 - [link](Pattern/Pattern1.cpp)
 2. Pattern2 - [link](Pattern/Pattern2.cpp)
