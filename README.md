@@ -176,6 +176,8 @@ This repository is for data structure and algorithms solutions in c++ programmin
 9. Lowest Common Ancestor of a Binary Search Tree(leetcode) - [link](https://leetcode.com/submissions/detail/1120296992/)
 10. Validate Binary Search Tree(leetcode) - [link](https://leetcode.com/submissions/detail/1120835052/)
 11. Construct Binary Search Tree from Preorder Traversal(leetcode) - [link](https://leetcode.com/submissions/detail/1122363146/)
+12. Minimum Absolute Difference in BST(leetcode) - [link](https://leetcode.com/submissions/detail/1122522776/)
+13. Kth Smallest Element in a BST(leetcode) - [link](https://leetcode.com/submissions/detail/1122558085/)
 
 
 ## Pattern 
