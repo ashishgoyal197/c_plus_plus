@@ -47,6 +47,8 @@ This repository is for data structure and algorithms solutions in c++ programmin
 29. Third Max -[link](Array/ThirdMax.cpp)
 30. Two Sum -[link](Array/TwoSum.cpp)
 31. Visible Height -[link](Array/VisibleHieght.cpp)
+32. Minimum Distance to the Target Element(leetcode) -[link](https://leetcode.com/submissions/detail/1118625664/)
+33. Create Target Array in the Given Order(leetcode) -[link](https://leetcode.com/submissions/detail/1118647030/)
 
 ## Matrix
 
@@ -67,6 +69,7 @@ This repository is for data structure and algorithms solutions in c++ programmin
 15. Pascal's Triangle II (leetcode) - [link](https://leetcode.com/submissions/detail/1051924169/)
 16. Set Matrix Zeroes (leetcode) - [link](https://leetcode.com/submissions/detail/1053251375/)
 17. Diagonal Traverse (leetcode) - [link](https://leetcode.com/submissions/detail/1053834121/)
+18. Special Positions in a Binary Matrix(leetcode) - [link](https://leetcode.com/submissions/detail/1118815174/)
 
 ## Binary Search
 
@@ -154,6 +157,12 @@ This repository is for data structure and algorithms solutions in c++ programmin
 13. Same Tree (leetcode) - [link](https://leetcode.com/submissions/detail/1090629129/)
 14. Path Sum - [link](BinaryTree/path_sum.cpp)
 15. Construct Tree from Inorder and Preorder - [link](BinaryTree/TreeFromInAndPre.cpp)
+16. Binary Tree Maximum Path Sum(leetcode) - [link](https://leetcode.com/submissions/detail/1119347890/)
+17. Count Complete Tree Nodes(leetcode) - [link](https://leetcode.com/submissions/detail/1119402225/)
+18. Construct Binary Tree from Preorder and Postorder Traversal(leetcode) - [link](https://leetcode.com/submissions/detail/1119435859/)
+19. Flatten Binary Tree to Linked List(leetcode) - [link](https://leetcode.com/submissions/detail/1119528788/)
+20. Amount of Time for Binary Tree to Be Infected(leetcode) - [link](https://leetcode.com/submissions/detail/1119566264/)
+21. Maximum Depth of Binary Tree(leetcode) - [link](https://leetcode.com/submissions/detail/1120248481/)
  
 ## Binary Search Tree
 1. Insertion and Deletion - [link](BinarySearchTree/InsertionAndDeletion.cpp)
@@ -162,6 +171,11 @@ This repository is for data structure and algorithms solutions in c++ programmin
 4. Identical BST from two Array - [link](BinarySearchTree/IdenticalBSTfromTwoArr.cpp)
 5. Find Inorder Precesser and Secceser Node - [link](BinarySearchTree/InorderPreSuccesNode.cpp)
 6. Check valid BST - [link](BinarySearchTree/ValidBST.cpp)
+7. Binary Search Tree Iterator(leetcode) - [link](https://leetcode.com/submissions/detail/1120262438/)
+8. Convert Sorted Array to Binary Search Tree(leetcode) - [link](https://leetcode.com/submissions/detail/1120281133/)
+9. Lowest Common Ancestor of a Binary Search Tree(leetcode) - [link](https://leetcode.com/submissions/detail/1120296992/)
+10. Validate Binary Search Tree(leetcode) - [link](https://leetcode.com/submissions/detail/1120835052/)
+11. Construct Binary Search Tree from Preorder Traversal(leetcode) - [link](https://leetcode.com/submissions/detail/1122363146/)
 
 
 ## Pattern 
@@ -180,6 +194,7 @@ This repository is for data structure and algorithms solutions in c++ programmin
 4. Max Lenght - [link](String/MaxLenghtOfOne.cpp)
 5. Add Binary - [link](String/AddBinary.cpp)
 6. Find the Index of the First Occurrence in a String (leetcode) - [link](https://leetcode.com/submissions/detail/1051158271/)
+7. Longest Common Prefix(leetcode) - [link](https://leetcode.com/submissions/detail/1119514576/)
    
 ## String Stream
 1. Count word - [link](StringStream/CountWord.cpp)
@@ -210,6 +225,8 @@ This repository is for data structure and algorithms solutions in c++ programmin
 21. Longest Consecutive Sequence (leetcode) - [link](https://leetcode.com/submissions/detail/1091180716/)
 22. Keyboard Row (leetcode) - [link](https://leetcode.com/submissions/detail/1091823163/)
 23. Kth Distinct String in an Array (leetcode) - [link](https://leetcode.com/submissions/detail/1095005546/)
+24. Rearrange Characters to Make Target String(leetcode) - [link](https://leetcode.com/submissions/detail/1118638183/)
+25. Destination City(leetcode) - [link](https://leetcode.com/submissions/detail/1120319285/)
    
 
 ## Sorting
