@@ -178,7 +178,15 @@ This repository is for data structure and algorithms solutions in c++ programmin
 11. Construct Binary Search Tree from Preorder Traversal(leetcode) - [link](https://leetcode.com/submissions/detail/1122363146/)
 12. Minimum Absolute Difference in BST(leetcode) - [link](https://leetcode.com/submissions/detail/1122522776/)
 13. Kth Smallest Element in a BST(leetcode) - [link](https://leetcode.com/submissions/detail/1122558085/)
+14. Just greater element on right side of Array - [link](BinarySearchTree/rightJustGreaterEle.cpp)
+15. Maximum Sum BST in Binary Tree(leetcode) - [link](https://leetcode.com/submissions/detail/1123164002/)
+16. Unique Binary Search Trees II(leetcode) - [link](https://leetcode.com/submissions/detail/1123182733/)
 
+## Generic Tree
+
+1. DFS and BFS Traversal - [link](GenericTree/Basic.cpp)
+2. Just Greater value than given value - [link](GenericTree/justGreaterThanX.cpp)
+3. MirrorTree - [link](GenericTree/MirrorTree.cpp)
 
 ## Pattern 
 1. Pattern1 - [link](Pattern/Pattern1.cpp)
