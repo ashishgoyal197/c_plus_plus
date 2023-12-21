@@ -49,13 +49,16 @@ public:
 
 int main(){
 
-    Node* root = new Node(20);
-    root->children.push_back(new Node(8));
-    root->children.push_back(new Node(22));
-    root->children[0]->children.push_back(new Node(4));
-    root->children[0]->children.push_back(new Node(12));
-    root->children[0]->children[1]->children.push_back(new Node(10));
-    root->children[0]->children[1]->children.push_back(new Node(14));
+    Node* root = new Node(10);
+    root->children.push_back(new Node(2));
+    root->children.push_back(new Node(34));
+    root->children.push_back(new Node(56));
+    root->children.push_back(new Node(100));
+    root->children[1]->children.push_back(new Node(1));
+    root->children[3]->children.push_back(new Node(7));
+    root->children[3]->children.push_back(new Node(8));
+    root->children[3]->children.push_back(new Node(9));
+    
 
     levelOrder(root);
     mirrorTree(root);

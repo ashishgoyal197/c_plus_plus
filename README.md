@@ -187,6 +187,21 @@ This repository is for data structure and algorithms solutions in c++ programmin
 1. DFS and BFS Traversal - [link](GenericTree/Basic.cpp)
 2. Just Greater value than given value - [link](GenericTree/justGreaterThanX.cpp)
 3. MirrorTree - [link](GenericTree/MirrorTree.cpp)
+4. Serialise and Deserialise Tree - [link](GenericTree/SerialiseTree.cpp)
+
+## Heap
+
+1. Insertion and Deletion - [link](Heap/InsertionAndDeletion.cpp)
+2. Heapify - [link](Heap/Heapify.cpp)
+3. Heap Sort - [link](Heap/HeapSort.cpp)
+4. find Sum between two given k1 and k2 smallest element - [link](Heap/SumBetweenK1andK2.cpp)
+
+## Priority Queue
+
+1. STL - [link](PriorityQueue/Basic.cpp)
+2. find Kth Largest element - [link](PriorityQueue/KthLargetElement.cpp)
+3. find K Closest Point to Origin - [link](PriorityQueue/KClosesPoint.cpp)
+4. Find max element after K operation - [link](PriorityQueue/findMaxAfterKOperation.cpp)
 
 ## Pattern 
 1. Pattern1 - [link](Pattern/Pattern1.cpp)
