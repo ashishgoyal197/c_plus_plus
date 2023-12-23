@@ -195,6 +195,7 @@ This repository is for data structure and algorithms solutions in c++ programmin
 2. Heapify - [link](Heap/Heapify.cpp)
 3. Heap Sort - [link](Heap/HeapSort.cpp)
 4. find Sum between two given k1 and k2 smallest element - [link](Heap/SumBetweenK1andK2.cpp)
+5. Least Time required for complete all task - [link](Heap/LeastTimeInterval.cpp)
 
 ## Priority Queue
 
@@ -202,6 +203,16 @@ This repository is for data structure and algorithms solutions in c++ programmin
 2. find Kth Largest element - [link](PriorityQueue/KthLargetElement.cpp)
 3. find K Closest Point to Origin - [link](PriorityQueue/KClosesPoint.cpp)
 4. Find max element after K operation - [link](PriorityQueue/findMaxAfterKOperation.cpp)
+5. Find Median from Data Stream(leetcode) - [link](https://leetcode.com/submissions/detail/1125667317/)
+
+## Greedy
+
+1. Activity Selection - [link](Greedy/ActivitySelection.cpp)
+2. Fractional Knapsack - [link](Greedy/FractionalKnapsack.cpp)
+3. Maximum Number of Meeting Possible - [link](Greedy/MaxNumMeeting.cpp)
+4. Survive On Island - [link](Greedy/SurviveOnIsland.cpp)
+5. Largest Possible Palindrome from given Number - [link](Greedy/LargestPalindromeNumber.cpp)
+6. Maximum Units on a Truck(leetcode) - [link](https://leetcode.com/submissions/detail/1126425337/)
 
 ## Pattern 
 1. Pattern1 - [link](Pattern/Pattern1.cpp)
