@@ -11,7 +11,7 @@ public:
 
     Node(int data){
         val = data;
-        left = right = NULL;
+        left = right = nullptr;
     }
 
 };

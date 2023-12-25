@@ -2,6 +2,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// Given n pair. return k pair which is closest to origin.
+
 vector<pair<int,int>> KClosestPoint(vector<pair<int,int>> pts, int n, int k){
 
     priority_queue<pair<int, pair<int,int>>> pq;

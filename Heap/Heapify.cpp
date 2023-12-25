@@ -47,7 +47,8 @@ int main(){
     int size = 7;
 
     int arr1[N] = {-1,60,10,80,50,5,20,70};
-
+    
+    // Heapify minHeap
     for(int i=size/2 ; i>=1 ; i--){
         heapifyMinHeap(arr, size, i);
     }
@@ -55,7 +56,8 @@ int main(){
     for(int i=1 ; i<=size ; i++){
         cout<<arr[i]<<" ";
     }cout<<endl;
-
+    
+    // haepify maxHeap
     for(int i=size/2 ; i>=1 ; i--){
         heapifyMaxHeap(arr1, size, i);
     }

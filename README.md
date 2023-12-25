@@ -213,6 +213,11 @@ This repository is for data structure and algorithms solutions in c++ programmin
 4. Survive On Island - [link](Greedy/SurviveOnIsland.cpp)
 5. Largest Possible Palindrome from given Number - [link](Greedy/LargestPalindromeNumber.cpp)
 6. Maximum Units on a Truck(leetcode) - [link](https://leetcode.com/submissions/detail/1126425337/)
+7. Minimum cost for break grid into Square - [link](Greedy/minCostForCutSquare.cpp)
+8. Construct Smallest Number - [link](Greedy/Smallest_Number.cpp)
+9. Minimum Changes To Make Alternating Binary String(leetcode) - [link](https://leetcode.com/submissions/detail/1127590898/)
+10. Non-overlapping Intervals(leetcode) - [link](https://leetcode.com/submissions/detail/1127941109/)
+11. Maximum Profit in Job Scheduling(leetcode) - [link](https://leetcode.com/submissions/detail/1128047407/)
 
 ## Pattern 
 1. Pattern1 - [link](Pattern/Pattern1.cpp)

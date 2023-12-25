@@ -2,6 +2,10 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// Given start and end time of meeting. we have to sedule meeting in one room. we have to sedule 
+// max number of meeting.
+// print index of seduled meeting.
+
 struct meeting{
     int start;
     int end;

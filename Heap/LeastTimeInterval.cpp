@@ -2,6 +2,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// find least time interval for complete all given task. 
+// Input: a task vector and a int n, n is time break for repeat a particular task.
+
 int LeastInterval(vector<char> task, int n){
 
     //1. count frequency

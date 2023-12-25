@@ -2,6 +2,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// Given the array of integer. replace every element with its just greater element right side of array.
+// if there is no greater element replace it with -1.
+
 class TreeNode{
 public:
     

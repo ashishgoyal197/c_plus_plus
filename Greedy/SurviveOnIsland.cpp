@@ -15,11 +15,11 @@ using namespace std;
 int SurviveOnIsland(int N, int S, int M){
 
     int requiredfood = S*M;
-        int maxFoodCanBuy = (S - S/7)*N;
+    int maxFoodCanBuy = (S - S/7)*N;
         
-        if(maxFoodCanBuy < requiredfood) return -1;
+    if(maxFoodCanBuy < requiredfood) return -1;
         
-        return ceil(float(S*M)/float(N));
+    return ceil(float(S*M)/float(N));
 
 }
 

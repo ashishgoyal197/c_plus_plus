@@ -16,7 +16,7 @@ int main(){
         pq.pop();
     }cout<<endl;
 
-    priority_queue<int, vector<int>, greater<int>> pq2;
+    priority_queue<int, vector<int>, greater<int>> pq2; // minHeap.
 
     pq2.push(4);
     pq2.push(7);

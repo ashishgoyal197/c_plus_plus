@@ -1,6 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// Given the weights and profits of N items, in the form of {profit, weight} 
+//put these items in a knapsack of capacity W to get the maximum total profit in the knapsack. 
+
 struct Item{
 
     int value;

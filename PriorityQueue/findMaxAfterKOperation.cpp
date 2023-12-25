@@ -1,6 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// remove 2 smallest element from given vector and push their product. repeat process k times.
+// then return largest present in vector.
+
 int largetPoint(vector<int> v, int n, int k){
 
     priority_queue<int, vector<int>, greater<int>> pq;
