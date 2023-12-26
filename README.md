@@ -219,6 +219,12 @@ This repository is for data structure and algorithms solutions in c++ programmin
 10. Non-overlapping Intervals(leetcode) - [link](https://leetcode.com/submissions/detail/1127941109/)
 11. Maximum Profit in Job Scheduling(leetcode) - [link](https://leetcode.com/submissions/detail/1128047407/)
 
+## Dynamic Programming
+
+1. Fibonacci - [link](DynamicProgramming/Fibonacci.cpp)
+2. House Robber(leetcode) - [link](https://leetcode.com/submissions/detail/1128679490/)
+3. Decode Ways(leetcode) - [link](https://leetcode.com/submissions/detail/1128840973/)
+
 ## Pattern 
 1. Pattern1 - [link](Pattern/Pattern1.cpp)
 2. Pattern2 - [link](Pattern/Pattern2.cpp)
