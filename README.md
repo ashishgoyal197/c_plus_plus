@@ -222,8 +222,15 @@ This repository is for data structure and algorithms solutions in c++ programmin
 ## Dynamic Programming
 
 1. Fibonacci - [link](DynamicProgramming/Fibonacci.cpp)
-2. House Robber(leetcode) - [link](https://leetcode.com/submissions/detail/1128679490/)
-3. Decode Ways(leetcode) - [link](https://leetcode.com/submissions/detail/1128840973/)
+2. Coin Combination - [link](DynamicProgramming/coinCombination.cpp)
+3. Min Cost of Frog Jump - [link](DynamicProgramming/FrogJump.cpp)
+4. House Robber(leetcode) - [link](https://leetcode.com/submissions/detail/1128679490/)
+5. Decode Ways(leetcode) - [link](https://leetcode.com/submissions/detail/1128840973/)
+6. Jump Game(leetcode) - [link](https://leetcode.com/submissions/detail/1129586787/)
+7. Climbing Stairs(leetcode) - [link](https://leetcode.com/submissions/detail/1130301570/)
+8. Triangle(leetcode) - [link](https://leetcode.com/submissions/detail/1130442671/)
+9. Longest Common Subsequence(leetcode) - [link](https://leetcode.com/submissions/detail/1130471854/)
+10. Longest Increasing Subsequence(leetcode) - [link](https://leetcode.com/submissions/detail/1130496316/)
 
 ## Pattern 
 1. Pattern1 - [link](Pattern/Pattern1.cpp)
