@@ -3,6 +3,7 @@
 using namespace std;
 
     vector<int> dp;
+    // Bottom up approch.
     int rob(vector<int>& nums) {
         dp.resize(3, -1);
         if(nums.size()==1) return nums[0];

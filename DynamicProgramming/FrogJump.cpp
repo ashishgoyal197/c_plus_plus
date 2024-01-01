@@ -3,6 +3,8 @@
 using namespace std;
 vector<int> dp;
 
+// find minimum cost (abs(h[i] - h[j])) for reach last element. if frog can jump max k steps.
+
 // top down approch.
 int f(vector<int> &h, int i, int k){
     if(i == h.size() - 1) return 0;

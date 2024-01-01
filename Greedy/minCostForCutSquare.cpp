@@ -3,6 +3,11 @@
 #include<algorithm>
 using namespace std;
 
+// Board length m and n is given. we have to break this board into m*n number of square.
+// two vector x and y is given.
+// x has cost for vertical cut. and y has cost for horizontal cut.
+// return min cost.
+
 static bool comparator(int x, int y){
     return x>y;
 }
@@ -47,7 +52,7 @@ int minCostToBreakGrid(int n, int m, vector<int> &x, vector<int> &y){
 int main(){
 
     int n,m;
-    cin>>n>>m;
+    cin>>m>>n;
     
     vector<int> x;
     for(int i=0 ; i<m-1 ; i++){

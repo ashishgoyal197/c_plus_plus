@@ -231,6 +231,15 @@ This repository is for data structure and algorithms solutions in c++ programmin
 8. Triangle(leetcode) - [link](https://leetcode.com/submissions/detail/1130442671/)
 9. Longest Common Subsequence(leetcode) - [link](https://leetcode.com/submissions/detail/1130471854/)
 10. Longest Increasing Subsequence(leetcode) - [link](https://leetcode.com/submissions/detail/1130496316/)
+11. Minimum Matrix multiplication - [link](DynamicProgramming/MinimumMatrixMultiplication.cpp)
+12. Unique Paths(leetcode) - [link](https://leetcode.com/submissions/detail/1131169022/)
+13. Unique Paths II (leetcode) - [link](https://leetcode.com/submissions/detail/1131190778/)
+14. Minimum Path Sum(leetcode) - [link](https://leetcode.com/submissions/detail/1131944833/)
+15. Partition Equal Subset Sum(leetcode) - [link](https://leetcode.com/submissions/detail/1133201987/)
+16. Unique Binary Search Trees(leetcode) - [link](https://leetcode.com/submissions/detail/1133453600/)
+17. Regular Expression Matching(leetcode) - [link](https://leetcode.com/submissions/detail/1133516522/)
+18. House Robber II(leetcode) - [link](https://leetcode.com/submissions/detail/1133597742/)
+19. House Robber III(leetcode) - [link](https://leetcode.com/submissions/detail/1133583338/)
 
 ## Pattern 
 1. Pattern1 - [link](Pattern/Pattern1.cpp)

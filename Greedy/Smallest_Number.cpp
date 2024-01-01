@@ -1,6 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// Given two number s and d.
+// construct smallest number. where s is sum of digit and d is number of digit.
+
 vector<int> constructSmallestNumber(int s, int d){
 
     vector<int> v(d,0); 

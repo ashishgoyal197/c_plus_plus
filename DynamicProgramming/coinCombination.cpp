@@ -1,6 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// Given a vector of coins and a integer value k. we have to find number of ways to make k
+// using coins.
+
 int f(vector<int> &v, int x, int n){
     vector<int> dp(1000005, 0);
     int mod = 1000000007;
