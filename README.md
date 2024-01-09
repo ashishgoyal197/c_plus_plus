@@ -1,6 +1,10 @@
 # c_plus_plus
 This repository is for data structure and algorithms solutions in c++ programming langauge.
 
+## Leetcode
+
+leetcode profile - [link](https://leetcode.com/goyalashish197/)
+
 ## Stack
 1. Create Stack class with push and pop operations - [link](Stack/new.cpp)
 2. Insert element at given position - [link](Stack/InsertAtAnyIndex.cpp)
@@ -341,76 +345,6 @@ This repository is for data structure and algorithms solutions in c++ programmin
 1. Binary Search - [link](searching/BinarySearch.cpp)
 2. Linear Search - [link](searching/LinearSearch.cpp)
 
-## Leetcode
-
-leetcode profile - [link](https://leetcode.com/goyalashish197/)
-
-1. Two Sum - [link](https://leetcode.com/submissions/detail/910929937/)
-2. Remove Duplicates from Sorted Array - [link](https://leetcode.com/submissions/detail/910958656/)
-3. Single Number - [link](https://leetcode.com/submissions/detail/911241651/)
-4. Remove Element - [link](https://leetcode.com/submissions/detail/911885852/)
-5. Plus One - [link](https://leetcode.com/submissions/detail/913682168/)
-6. Contains Duplicate - [link](https://leetcode.com/submissions/detail/913721139/)
-7. Missing Number - [link](https://leetcode.com/submissions/detail/913726837/)
-8. Move Zeroes - [link](https://leetcode.com/submissions/detail/913754039/)
-9.  Distribute Candies - [link](https://leetcode.com/submissions/detail/913767891/)
-10. Height Checker - [link](https://leetcode.com/submissions/detail/924723293/)
-11. Max Consecutive Ones - [link](https://leetcode.com/submissions/detail/925356025/)
-12. Next Greater Element I - [link](https://leetcode.com/submissions/detail/926488497/)
-13. Can Place Flowers - [link](https://leetcode.com/submissions/detail/926503079/)
-14. Intersection of Two Arrays - [link](https://leetcode.com/submissions/detail/926775190/)
-15. Find All Numbers Disappeared in an Array - [link](https://leetcode.com/submissions/detail/926800831/)
-16. Intersection of Two Arrays II - [link](https://leetcode.com/submissions/detail/927790141/)
-17. Third Maximum Number - [link](https://leetcode.com/submissions/detail/927799643/)
-18. Set Mismatch - [link](https://leetcode.com/submissions/detail/929447788/)
-19. Largest Number At Least Twice of Others - [link](https://leetcode.com/submissions/detail/929509185/)
-20. Sort Array By Parity - [link](https://leetcode.com/submissions/detail/929513037/)
-21. Merge Sorted Array - [link](https://leetcode.com/submissions/detail/931285364/)
-22. Assign Cookies - [link](https://leetcode.com/submissions/detail/932932395/)
-23. Relative Ranks - [link](https://leetcode.com/submissions/detail/933120779/)
-24. Sort Colors - [link](https://leetcode.com/submissions/detail/933712955/)
-25. Maximum Gap - [link](https://leetcode.com/submissions/detail/933715846/)
-26. Kth Largest Element in an Array - [link](https://leetcode.com/submissions/detail/933759832/)
-27. Find the Duplicate Number - [link](https://leetcode.com/submissions/detail/933766500/)
-28. Find Lucky Integer in an Array - [link](https://leetcode.com/submissions/detail/936754673/)
-29. Duplicate Zeros - [link](https://leetcode.com/submissions/detail/936758912/)
-30. Single Number II - [link](https://leetcode.com/submissions/detail/937106668/)
-31. Find All Duplicates in an Array - [link](https://leetcode.com/submissions/detail/937283358/)
-32. Smallest Index With Equal Value - [link](https://leetcode.com/submissions/detail/937433551/)
-33. Time Needed to Buy Tickets - [link](https://leetcode.com/submissions/detail/937466934/)
-34. Find the Middle Index in Array - [link](https://leetcode.com/submissions/detail/937485686/)
-35. Determine the Winner of a Bowling Game - [link](https://leetcode.com/submissions/detail/953851509/)
-36. Reverse String - [link](https://leetcode.com/submissions/detail/955214975/)
-37. Spiral Matrix - [link](https://leetcode.com/submissions/detail/956175405/)
-38. Spiral Matrix II - [link](https://leetcode.com/submissions/detail/956245417/)
-39. Rotate Image - [link](https://leetcode.com/submissions/detail/956541654/)
-40. Pascal's Triangle - [link](https://leetcode.com/submissions/detail/957060341/)
-41. Reshape the Matrix - [link](https://leetcode.com/submissions/detail/957831019/)
-42. Toeplitz Matrix - [link](https://leetcode.com/submissions/detail/958186832/)
-43. Transpose Matrix - [link](https://leetcode.com/submissions/detail/958223059/)
-44. Count Negative Numbers in a Sorted Matrix - [link](https://leetcode.com/submissions/detail/958229449/)
-45. Convert 1D Array Into 2D Array - [link](https://leetcode.com/submissions/detail/958241487/)
-46. Delete Greatest Value in Each Row - [link](https://leetcode.com/submissions/detail/958251358/)
-47. Valid Parentheses - [link](https://leetcode.com/submissions/detail/970896132/)
-48. Odd Even Linked List - [link](https://leetcode.com/submissions/detail/970980852/)
-49. Binary Tree Preorder Traversal - [link](https://leetcode.com/submissions/detail/972515203/)
-50. Binary Tree Inorder Traversal - [link](https://leetcode.com/submissions/detail/972530471/)
-51. Binary Tree Postorder Traversal - [link](https://leetcode.com/submissions/detail/972533065/)
-52. Remove Duplicates from Sorted List - [link](https://leetcode.com/submissions/detail/973508528/)
-53. Sliding Window Maximum - [link](https://leetcode.com/submissions/detail/981471914/)
-54. Majority Element - [link](https://leetcode.com/submissions/detail/991573478/)
-55. Rotate Array - [link](https://leetcode.com/submissions/detail/999843802/)
-56. Alternating Digit Sum -[link](https://leetcode.com/submissions/detail/1019135545/)
-57. Valid Anagram - [link](https://leetcode.com/submissions/detail/1021722158/)
-58. Add Binary - [link](https://leetcode.com/submissions/detail/1021820599/)
-59. Reverse Integer - [link](https://leetcode.com/submissions/detail/1022112886/) 
-60. Length of Last Word - [link](https://leetcode.com/submissions/detail/1022351036/)
-61. Product of Array Except Self - [link](https://leetcode.com/submissions/detail/1023925504/)
-62. Find the Difference - [link](https://leetcode.com/submissions/detail/1023932730/)
-63. Student Attendance Record I - [link](https://leetcode.com/submissions/detail/1023989509/)
-64. Ransom Note - [link](https://leetcode.com/submissions/detail/1032874588/)
-65. Sign of the Product of an Array - [link](https://leetcode.com/submissions/detail/1044167005/)
-66. Now adding topic-wise ...Not here. 
 
 
 
